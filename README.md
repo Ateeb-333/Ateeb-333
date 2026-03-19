@@ -13,11 +13,19 @@
 
 ## 🚀 About Me
 
-💻 Full Stack Engineer with **3+ years experience** building scalable apps & automation systems
-🤖 Specialized in **AI/ML, automation, and intelligent workflows**
-⚡ Delivered **production-grade systems with 99.9% uptime**
-📊 Built pipelines processing **100K+ data points**
+💻 Full Stack Engineer with **3+ years of experience** building scalable apps & automation systems <br>
+🤖 Specialized in **AI/ML, automation, and intelligent workflows** <br>
+⚡ Delivered **production-grade systems with 99.9% uptime** <br>
+📊 Built pipelines processing **100K+ data points** <br>
 🎯 Focused on **clean architecture, performance & scalability**
+
+---
+
+## ⚡ Currently Working On
+
+* 🚀 Building scalable SaaS applications with Next.js & Node.js
+* 🤖 Developing AI-powered automation tools
+* 📊 Exploring RAG systems & LLM integrations
 
 ---
 
@@ -31,10 +39,19 @@
 
 ---
 
+## 📈 Impact Snapshot
+
+* ⚡ Engineered systems with **99.9% uptime**
+* 📊 Processed **100K+ data points** using automation pipelines
+* 📈 Increased campaign engagement by **25%**
+* 🤖 Built OCR + scraping systems with **92% accuracy**
+
+---
+
 ## 🛠 Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,cpp,react,nextjs,nodejs,express,tailwind,mysql,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nextjs,nodejs,express,tailwind,mysql,postgres,docker,git" />
 </p>
 
 ---
@@ -43,18 +60,21 @@
 
 ### 🎙 Speech Emotion Recognition
 
-✔ Deep Learning (CNN + BiLSTM)
-✔ 85% accuracy across 7 emotional classes
+* Built using CNN + BiLSTM with MFCC & spectrograms
+* Achieved **85% accuracy across 7 emotion classes**
+* Applied deep learning for real-world audio classification
 
 ### 📄 MinerU (Explainable AI)
 
-✔ Document intelligence system
-✔ SHAP + LIME for transparent AI
+* Intelligent document processing system
+* Integrated **SHAP & LIME for model interpretability**
+* Enabled transparent AI predictions from PDFs
 
 ### ⚡ Smart Energy Recommender
 
-✔ RAG + FAISS architecture
-✔ Context-aware recommendation engine
+* Developed using **RAG + FAISS vector search**
+* Delivered scalable, context-aware recommendations
+* Designed for intelligent decision systems
 
 ---
 
@@ -96,6 +116,8 @@
 ---
 
 ## 📬 Let’s Connect
+
+💼 Open to impactful engineering opportunities worldwide
 
 📩 Email: **[ateebasad333@gmail.com](mailto:ateebasad333@gmail.com)**
 
