@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ateeb-333&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ateeb-333&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
