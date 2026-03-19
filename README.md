@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ateeb-chaudary-a6a0a0263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:ateebasad333@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail"></a>
-  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox"></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen">
+  <a href="https://ateeb-portfolio-sigma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox"></a>
+  <img src="https://komarev.com/ghpvc/?username=Ateeb-333&style=for-the-badge&color=brightgreen">
 </p>
 
 ---
@@ -61,12 +61,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ateeb-333&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ateeb-333&theme=tokyonight" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🧬 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ateeb-333&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
