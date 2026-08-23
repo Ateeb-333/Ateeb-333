@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-💻 Full Stack Engineer with **3+ years of experience delivering production-grade applications** <br>
+💻 Full Stack Engineer with **4+ years of experience delivering production-grade applications** <br>
 🤖 Specialized in **AI/ML, automation & intelligent systems that solve real business problems** <br>
 ⚡ Built scalable systems with **99.9% uptime & high-performance architecture** <br>
 📊 Developed automation pipelines handling **100K+ data points efficiently** <br>
